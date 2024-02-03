@@ -1,0 +1,1 @@
+This is the repository for the design assesment project for the company Vancouver Laptops. This repo is integrated with Figma design tokens to log the version controls between Designs in Figma and Code when the developers actually started coding.
